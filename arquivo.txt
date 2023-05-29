@@ -1,0 +1,10 @@
+1;30000.000000;145.000000;aluguel;rua dos alfeneiros, n 4;3;2 ;1;123.000000
+1;130000.000000;50.000000;venda;Rua Monte Horebe, Gramame - Joao Pessoa;2;2 ;1;50.000000
+2;1400.000000;125.000000;aluguel;Rua Randal Cavalcante Pimentel, Bessa - JP;4;3;2;404
+3;550000.000000;360.000000;venda;Rua Marcelo Lins de Mendonca, Aeroclube - Joao Pessoa;aclive
+2;820000.000000;79.000000;venda;Rua Oceano Antartico, Jardim Oceania - Joao Pessoa;10;3;2;1004
+2;1200.000000;78.000000;aluguel;Rua Morise Brandao de Miranda, Cristo Redentor - JP;2;3;1;201
+3;550000.000000;450.000000;venda;Av Hilton Souto Maior - Res Cabo Branco Prive;nivelado
+2;1800.000000;3.000000;aluguel;Avenida Indio Arabutan, Cabo Branco - JP;3;3;3;301
+3;200000.000000;70.000000;venda;Rua General Edson Ramalho, 45 - Manaira, JP;nivelado85.000000
+3;200000.000000;70.000000;venda;Rua General Edson Ramalho, 45 - Manaira, JP;nivelado
